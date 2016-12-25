@@ -1,3 +1,9 @@
+Many thanks to erdman for this much faster and more pythonic Halite foundation!
+
+I'm using it for version 2.x of my Halite bot.
+
+Below is the original readme:
+
 # alt-python3-halite-starter
 Alternative Halite starter package for Python3
 
