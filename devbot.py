@@ -47,7 +47,7 @@ def get_move(square):
         #wait until we are strong enough to attack
         return Move(square, STILL)
 
-hlt.send_init("npfoss")
+hlt.send_init("devbot")
 while True:
     game_map.get_frame()
     moves = [get_move(square) for square in game_map if square.owner == myID]
