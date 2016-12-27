@@ -44,7 +44,7 @@ class GameMap:
         self.starting_player_count = len(set(square.owner for square in self)) - 1
 
     def get_frame(self, map_string=None):
-        "Updates the map information from the latest frame provided by the Halite game environment."
+        #"Updates the map information from the latest frame provided by the Halite game environment."
         if map_string is None:
             map_string = get_string()
         split_string = map_string.split()
@@ -64,11 +64,11 @@ class GameMap:
                                           self.production))]
 
     def __iter__(self):
-        "Allows direct iteration over all squares in the GameMap instance."
+        #"Allows direct iteration over all squares in the GameMap instance."
         return chain.from_iterable(self.contents)
 
     def neighbors(self, square, n=1, include_self=False):
-        "Iterable over the n-distance neighbors of a given square.  For single-step neighbors, the enumeration index provides the direction associated with the neighbor."
+        #"Iterable over the n-distance neighbors of a given square.  For single-step neighbors, the enumeration index provides the direction associated with the neighbor."
         assert isinstance(include_self, bool)
         assert isinstance(n, int) and n > 0
         if n == 1:
@@ -78,12 +78,12 @@ class GameMap:
         return (self.contents[(square.y + dy) % self.height][(square.x + dx) % self.width] for dx, dy in combos if include_self or dx or dy)
 
     def get_target(self, square, direction):
-        "Returns a single, one-step neighbor in a given direction."
+        #"Returns a single, one-step neighbor in a given direction."
         dx, dy = ((0, -1), (1, 0), (0, 1), (-1, 0), (0, 0))[direction]
         return self.contents[(square.y + dy) % self.height][(square.x + dx) % self.width]
 
     def get_distance(self, sq1, sq2):
-        "Returns Manhattan distance between two squares."
+        #"Returns Manhattan distance between two squares."
         dx = min(abs(sq1.x - sq2.x), sq1.x + self.width - sq2.x, sq2.x + self.width - sq1.x)
         dy = min(abs(sq1.y - sq2.y), sq1.y + self.height - sq2.y, sq2.y + self.height - sq1.y)
         return dx + dy
@@ -114,7 +114,7 @@ def send_init(name):
 
 
 def translate_cardinal(direction):
-    "Translate direction constants used by this Python-based bot framework to that used by the official Halite game environment."
+    #"Translate direction constants used by this Python-based bot framework to that used by the official Halite game environment."
     # Cardinal indexing used by this bot framework is
     #~ NORTH = 0, EAST = 1, SOUTH = 2, WEST = 3, STILL = 4
     # Cardinal indexing used by official Halite game environment is
