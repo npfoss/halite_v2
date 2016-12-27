@@ -1,0 +1,1203 @@
+ all still len 900
+---setup took 0.068180 seconds
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    1 duration: 0.031082
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    2 duration: 0.044117
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    3 duration: 0.042571
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    4 duration: 0.038100
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    5 duration: 0.042144
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    6 duration: 0.042080
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    7 duration: 0.035075
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    8 duration: 0.041144
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn    9 duration: 0.043113
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   10 duration: 0.050096
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   11 duration: 0.062130
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   12 duration: 0.059157
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   13 duration: 0.041132
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   14 duration: 0.039104
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   15 duration: 0.041109
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   16 duration: 0.038101
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   17 duration: 0.046122
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   18 duration: 0.039104
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   19 duration: 0.043114
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   20 duration: 0.039104
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   21 duration: 0.038064
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   22 duration: 0.045078
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   23 duration: 0.041109
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   24 duration: 0.038646
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   25 duration: 0.037067
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   26 duration: 0.041114
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   27 duration: 0.035095
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   28 duration: 0.036098
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   29 duration: 0.038103
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   30 duration: 0.038101
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   31 duration: 0.038100
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   32 duration: 0.037553
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   33 duration: 0.040068
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   34 duration: 0.038062
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   35 duration: 0.043145
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   36 duration: 0.037097
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   37 duration: 0.046123
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   38 duration: 0.040105
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   39 duration: 0.040063
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   40 duration: 0.045140
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   41 duration: 0.043847
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   42 duration: 0.041109
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   43 duration: 0.044101
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   44 duration: 0.040106
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   45 duration: 0.041070
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   46 duration: 0.047125
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   47 duration: 0.056149
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   48 duration: 0.055143
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   49 duration: 0.046119
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   50 duration: 0.042111
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   51 duration: 0.050133
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   52 duration: 0.041077
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   53 duration: 0.041098
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   54 duration: 0.045088
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   55 duration: 0.040333
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   56 duration: 0.042114
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   57 duration: 0.038711
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   58 duration: 0.043109
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   59 duration: 0.038239
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   60 duration: 0.044115
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   61 duration: 0.040102
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   62 duration: 0.037068
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   63 duration: 0.036096
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   64 duration: 0.036557
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   65 duration: 0.040105
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   66 duration: 0.039068
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   67 duration: 0.042466
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   68 duration: 0.037181
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   69 duration: 0.037100
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   70 duration: 0.038046
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   71 duration: 0.040106
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   72 duration: 0.061376
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   73 duration: 0.039105
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   74 duration: 0.039037
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   75 duration: 0.039106
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   76 duration: 0.041110
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   77 duration: 0.039104
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   78 duration: 0.045120
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   79 duration: 0.041109
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   80 duration: 0.040131
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   81 duration: 0.038069
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   82 duration: 0.038102
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   83 duration: 0.043103
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   84 duration: 0.038081
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   85 duration: 0.035992
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   86 duration: 0.038101
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   87 duration: 0.042146
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   88 duration: 0.042108
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   89 duration: 0.040114
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   90 duration: 0.042144
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   91 duration: 0.035934
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   92 duration: 0.040108
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   93 duration: 0.043115
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   94 duration: 0.038102
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   95 duration: 0.042075
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   96 duration: 0.038110
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   97 duration: 0.037991
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   98 duration: 0.045157
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn   99 duration: 0.046089
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  100 duration: 0.040106
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  101 duration: 0.045104
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  102 duration: 0.042084
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  103 duration: 0.050136
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  104 duration: 0.049128
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  105 duration: 0.048128
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  106 duration: 0.038102
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  107 duration: 0.039066
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  108 duration: 0.050170
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  109 duration: 0.043114
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  110 duration: 0.041080
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  111 duration: 0.040074
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  112 duration: 0.041986
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  113 duration: 0.041118
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  114 duration: 0.049020
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  115 duration: 0.047117
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  116 duration: 0.045086
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  117 duration: 0.039104
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  118 duration: 0.044116
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  119 duration: 0.043118
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  120 duration: 0.037035
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  121 duration: 0.037068
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  122 duration: 0.044037
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  123 duration: 0.046123
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  124 duration: 0.039071
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  125 duration: 0.037069
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  126 duration: 0.035092
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  127 duration: 0.042111
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  128 duration: 0.047158
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  129 duration: 0.061162
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  130 duration: 0.059157
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  131 duration: 0.055147
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  132 duration: 0.052139
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  133 duration: 0.050133
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  134 duration: 0.065174
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  135 duration: 0.061167
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  136 duration: 0.051136
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  137 duration: 0.051136
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  138 duration: 0.055147
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  139 duration: 0.079207
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  140 duration: 0.062166
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  141 duration: 0.068181
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  142 duration: 0.082219
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  143 duration: 0.122326
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  144 duration: 0.070190
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  145 duration: 0.090240
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  146 duration: 0.052139
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  147 duration: 0.040110
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  148 duration: 0.037097
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  149 duration: 0.043116
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  150 duration: 0.042080
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  151 duration: 0.056148
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  152 duration: 0.064164
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  153 duration: 0.055148
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  154 duration: 0.056148
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  155 duration: 0.046122
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  156 duration: 0.046120
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  157 duration: 0.043115
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  158 duration: 0.041109
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  159 duration: 0.046123
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  160 duration: 0.063169
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  161 duration: 0.061163
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  162 duration: 0.049131
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  163 duration: 0.054148
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  164 duration: 0.049131
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  165 duration: 0.051137
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  166 duration: 0.051136
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  167 duration: 0.055147
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  168 duration: 0.049128
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  169 duration: 0.050133
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  170 duration: 0.051135
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  171 duration: 0.053142
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  172 duration: 0.055147
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  173 duration: 0.052140
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  174 duration: 0.048128
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  175 duration: 0.056150
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  176 duration: 0.060160
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  177 duration: 0.061160
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  178 duration: 0.059157
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  179 duration: 0.054157
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  180 duration: 0.058155
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  181 duration: 0.042112
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  182 duration: 0.041113
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  183 duration: 0.043118
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  184 duration: 0.045121
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  185 duration: 0.047780
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  186 duration: 0.045120
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  187 duration: 0.045110
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  188 duration: 0.045120
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  189 duration: 0.042112
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  190 duration: 0.043078
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  191 duration: 0.047126
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  192 duration: 0.048127
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  193 duration: 0.048096
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  194 duration: 0.051102
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  195 duration: 0.052142
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  196 duration: 0.048052
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  197 duration: 0.048087
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  198 duration: 0.050133
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  199 duration: 0.045120
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  200 duration: 0.048093
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  201 duration: 0.047125
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  202 duration: 0.049180
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  203 duration: 0.046088
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  204 duration: 0.045120
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  205 duration: 0.051136
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  206 duration: 0.051097
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  207 duration: 0.052137
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  208 duration: 0.047125
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  209 duration: 0.053141
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  210 duration: 0.050133
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  211 duration: 0.040106
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  212 duration: 0.055179
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  213 duration: 0.048126
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  214 duration: 0.047126
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  215 duration: 0.051136
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  216 duration: 0.050135
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  217 duration: 0.046470
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  218 duration: 0.044949
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  219 duration: 0.059158
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  220 duration: 0.048167
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  221 duration: 0.043114
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  222 duration: 0.046124
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  223 duration: 0.049132
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  224 duration: 0.054144
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  225 duration: 0.047126
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  226 duration: 0.049131
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  227 duration: 0.054142
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  228 duration: 0.050133
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  229 duration: 0.064142
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  230 duration: 0.047088
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  231 duration: 0.057109
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  232 duration: 0.047092
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  233 duration: 0.053139
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  234 duration: 0.053884
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  235 duration: 0.059160
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  236 duration: 0.055146
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  237 duration: 0.048092
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  238 duration: 0.053105
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  239 duration: 0.057645
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  240 duration: 0.060187
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  241 duration: 0.056147
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  242 duration: 0.051101
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  243 duration: 0.054143
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  244 duration: 0.055145
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  245 duration: 0.050134
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  246 duration: 0.049633
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  247 duration: 0.054111
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  248 duration: 0.054142
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  249 duration: 0.060122
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  250 duration: 0.059376
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  251 duration: 0.059157
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  252 duration: 0.069184
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  253 duration: 0.062166
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  254 duration: 0.055145
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  255 duration: 0.058155
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  256 duration: 0.062166
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  257 duration: 0.070192
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  258 duration: 0.058530
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  259 duration: 0.069144
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  260 duration: 0.059158
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  261 duration: 0.061155
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  262 duration: 0.064205
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  263 duration: 0.063102
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  264 duration: 0.071184
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  265 duration: 0.060159
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  266 duration: 0.068181
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  267 duration: 0.060160
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  268 duration: 0.064204
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  269 duration: 0.062144
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  270 duration: 0.062170
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  271 duration: 0.063168
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  272 duration: 0.067178
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  273 duration: 0.066173
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  274 duration: 0.060088
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  275 duration: 0.069185
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  276 duration: 0.069183
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  277 duration: 0.066175
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  278 duration: 0.069095
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  279 duration: 0.068146
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  280 duration: 0.068147
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  281 duration: 0.068176
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  282 duration: 0.067135
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  283 duration: 0.068132
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  284 duration: 0.069079
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  285 duration: 0.068140
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  286 duration: 0.069147
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  287 duration: 0.071188
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  288 duration: 0.069184
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  289 duration: 0.072191
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  290 duration: 0.074162
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  291 duration: 0.065174
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  292 duration: 0.068181
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  293 duration: 0.061200
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  294 duration: 0.061162
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  295 duration: 0.060123
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  296 duration: 0.061440
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  297 duration: 0.065141
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  298 duration: 0.069217
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  299 duration: 0.063141
+
+  starting turn at (0, 0)
+  ending turn at (0, 0)
+Turn  300 duration: 0.068177
+

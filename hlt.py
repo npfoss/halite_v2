@@ -32,7 +32,6 @@ def opposite_cardinal(direction):
 
 Square = namedtuple('Square', 'x y owner strength production')
 
-
 Move = namedtuple('Move', 'square direction')
 
 
