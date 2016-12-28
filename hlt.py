@@ -29,11 +29,8 @@ def opposite_cardinal(direction):
     #"Returns the opposing cardinal direction."
     return (direction + 2) % 4 if direction != STILL else STILL
 
-
 Square = namedtuple('Square', 'x y owner strength production')
-
 Move = namedtuple('Move', 'square direction')
-
 
 class GameMap:
     def __init__(self, size_string, production_string, map_string=None):
@@ -88,30 +85,33 @@ class GameMap:
         dy = min(abs(sq1.y - sq2.y), sq1.y + self.height - sq2.y, sq2.y + self.height - sq1.y)
         return dx + dy
 
+    def get_directions(self, sq1, sq2):
+        #"Returns Manhattan distance between two squares."
+        dx = sq2.x - sq1.x if abs(sq2.x - sq1.x) < abs(sq2.x - sq1.x - self.width) else sq2.x - sq1.x - self.width
+        dy = sq2.y - sq1.y if abs(sq2.y - sq1.y) < abs(sq2.y - sq1.y - self.width) else sq2.y - sq1.y - self.width
+        dy = min(abs(sq1.y - sq2.y), sq1.y + self.height - sq2.y, sq2.y + self.height - sq1.y)
+        if dy == 0 and dx == 0: return [STILL]
+        return ([] if dy == 0 else [NORTH,] if dy < 0 else [SOUTH,]) + ([] if dx == 0 else [WEST,] if dx < 0 else [EAST,])
+
 #####################################################################################################################
 # Functions for communicating with the Halite game environment (formerly contained in separate module networking.py #
 #####################################################################################################################
-
 
 def send_string(s):
     sys.stdout.write(s)
     sys.stdout.write('\n')
     sys.stdout.flush()
 
-
 def get_string():
     return sys.stdin.readline().rstrip('\n')
-
 
 def get_init():
     playerID = int(get_string())
     m = GameMap(get_string(), get_string())
     return playerID, m
 
-
 def send_init(name):
     send_string(name)
-
 
 def translate_cardinal(direction):
     #"Translate direction constants used by this Python-based bot framework to that used by the official Halite game environment."
@@ -122,7 +122,6 @@ def translate_cardinal(direction):
     #~ >>> list(map(lambda x: (x+1) % 5, range(5)))
     #~ [1, 2, 3, 4, 0]
     return (direction + 1) % 5
-
 
 def send_frame(moves):
     send_string(' '.join(str(move.square.x) + ' ' + str(move.square.y) + ' ' + str(translate_cardinal(move.direction)) for move in moves))
