@@ -89,7 +89,6 @@ class GameMap:
         #"Returns Manhattan distance between two squares."
         dx = sq2.x - sq1.x if abs(sq2.x - sq1.x) < abs(sq2.x - sq1.x - self.width) else sq2.x - sq1.x - self.width
         dy = sq2.y - sq1.y if abs(sq2.y - sq1.y) < abs(sq2.y - sq1.y - self.width) else sq2.y - sq1.y - self.width
-        dy = min(abs(sq1.y - sq2.y), sq1.y + self.height - sq2.y, sq2.y + self.height - sq1.y)
         if dy == 0 and dx == 0: return [STILL]
         return ([] if dy == 0 else [NORTH,] if dy < 0 else [SOUTH,]) + ([] if dx == 0 else [WEST,] if dx < 0 else [EAST,])
 
